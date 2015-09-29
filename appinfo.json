@@ -1,0 +1,24 @@
+{
+  "uuid": "243ff9ab-6fb6-4365-b362-82f4c4143497",
+  "shortName": "Boring",
+  "longName": "Boring",
+  "companyName": "Matthew Tole",
+  "versionCode": 1,
+  "versionLabel": "1.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_BEBAS_60",
+        "file": "bebas.ttf"
+      }
+    ]
+  }
+}
